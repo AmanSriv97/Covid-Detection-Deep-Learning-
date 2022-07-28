@@ -5,4 +5,4 @@ The cough sound Data was taken from IISC Coswara dataset.
 The sound samples were first pre processed and then padded and filtered to make each sample of equal length .
 Then the audio files were converted into spectro grams which look like this. 
 
-![Screenshot](spectrogram.png)
+(spectrogram.png)
