@@ -26,8 +26,5 @@ The confusion matrix and AUC - ROC curve of the model is shown below
 
 ![confusion matrix](https://user-images.githubusercontent.com/110150684/183033718-c1b8bd94-29c5-4ba0-b834-5755587f54b2.jpg)
 
-Since out model performs better than various other classifiers. Here is a comparision of our results with other papers.
-![comparision](https://user-images.githubusercontent.com/110150684/183033859-fc30412c-dfda-4d15-aaf0-ec17e11ffc86.jpg)
-
 
 Thanks
